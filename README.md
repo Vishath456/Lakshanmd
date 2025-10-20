@@ -1,13 +1,13 @@
 <h1 align="center" style="font-weight:bold;">
 ⚡ 𝘓𝘈𝘒𝘚𝘏𝘈𝘕 － 𝘔𝘋 ⚡
-<𝘣𝘳>
+
 𝘱𝘰𝘸𝘦𝘳𝘥 𝘣𝘺 𝘲𝘶𝘪𝘻𝘰𝘯𝘵𝘢𝘭♡
 
 
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Lakshan-MD/Lakshan-MD/blob/main/images/Lakshan%20-%20MD.png?raw=true" alt="Lakshan-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
+  <img src="https://github.com/Vishath456/Lakshanmd/blob/main/Images/1760863557865.jpg?raw=true" alt="Lakshan-MD Logo" style="border-radius: 50px; box-shadow: 0 0 20px #00ffe5, 0 0 30px #00ffe5, 0 0 40px #00ffe5;">
 </p> 
 
 <p align="center">
