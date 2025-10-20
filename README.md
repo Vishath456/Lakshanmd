@@ -292,15 +292,15 @@ We’re constantly improving Lakshan-MD to bring more power to your fingertips. 
 </p>
 
 <p align="center">
-  <img src="https://github.com/Lakshan-MD/Lakshan-MD/blob/main/images%20/Danuka%20Dissanayake.jpg?raw=true" width="540" style="border-radius: 50px;" alt="Danuka Disanayaka"/>
+  <img src="https://github.com/Vishath456/Lakshanmd/blob/main/Images/1760863557865.jpg?raw=true" width="540" style="border-radius: 50px;" alt="𝘭𝘢𝘬𝘴𝘩𝘢𝘯-𝘮𝘥"/>
 </p>
 
 <h1 align="center" style="color:#10B981; font-weight:bold;">
-  Danuka Disanayaka
+  𝘷𝘪𝘴𝘩𝘢𝘵𝘩 𝘬𝘢𝘶𝘴𝘩𝘪𝘬𝘢 𝘭𝘢𝘬𝘴𝘩𝘢𝘯
 </h1>
 
 <p align="center">
-Danuka Disanayaka is a passionate full-stack developer and automation enthusiast with a focus on building scalable bots, AI integrations, and open-source tools. With a deep understanding of JavaScript, Node.js, and real-time systems, Harshana actively contributes to the developer community by creating tools that simplify communication and task automation. His work emphasizes clean code, performance, and user-centric design.
+𝘷𝘪𝘴𝘩𝘢𝘵𝘩 𝘬𝘢𝘶𝘴𝘩𝘪𝘬𝘢 𝘭𝘢𝘬𝘴𝘩𝘢𝘯 is a passionate full-stack developer and automation enthusiast with a focus on building scalable bots, AI integrations, and open-source tools. With a deep understanding of JavaScript, Node.js, and real-time systems, Harshana actively contributes to the developer community by creating tools that simplify communication and task automation. His work emphasizes clean code, performance, and user-centric design.
 </p>
 
 <p align="center">
